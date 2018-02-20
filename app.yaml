@@ -1,0 +1,11 @@
+runtime: nodejs
+env: flex
+
+handlers:
+- url: /
+  static_files: app/index.html
+  upload: app/index.html
+  secure: always
+
+- url: /
+  static_dir: app
