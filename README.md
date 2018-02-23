@@ -1,6 +1,6 @@
 ## appEngineDevWrapper
 
-Simple environment setup for Node.js google app engine deployment.
+Simple environment setup for python google app engine deployment.
 
 ### Getting Started
 
